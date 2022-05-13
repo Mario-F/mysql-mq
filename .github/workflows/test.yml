@@ -10,7 +10,7 @@ jobs:
         node:
           - '14'
           - '16'
-    name: Go ${{ matrix.go }}, Node ${{ matrix.node }}
+    name: Node ${{ matrix.node }}
     services:
       mysql:
         image: mysql:5.7
