@@ -1,1 +1,1 @@
-module.exports = require("./src/mysql-mq.js")
+export { default } from "./src/mysql-mq.js";
