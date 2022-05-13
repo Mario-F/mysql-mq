@@ -11,10 +11,20 @@ jobs:
           - '14'
           - '16'
           - '18'
-    name: Node ${{ matrix.node }}
+        sql:
+          - 'mysql:5.6'
+          - 'mysql:5.7'
+          - 'mariadb:10.2'
+          - 'mariadb:10.3'
+          - 'mariadb:10.4'
+          - 'mariadb:10.5'
+          - 'mariadb:10.6'
+          - 'mariadb:10.7'
+          - 'mariadb:10.8'
+    name: Node ${{ matrix.node }}, MySQL/MariaDB ${{ matrix.sql }}
     services:
       mysql:
-        image: mysql:5.7
+        image: ${{ matrix.sql }}
         env:
           MYSQL_DATABASE: mp_test
           MYSQL_HOST: 127.0.0.1
