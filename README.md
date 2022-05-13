@@ -7,7 +7,7 @@ Its not build to down to performance, either its optimized to provide a mysql ba
 ## Install
 
 ```javascript
-$ npm install mysql-mq
+npm install mysql-mq
 ```
 
 ## Usage
