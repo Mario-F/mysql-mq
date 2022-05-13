@@ -6,7 +6,7 @@ Its not build to down to performance, either its optimized to provide a mysql ba
 
 ## Install
 
-```javascript
+```shell
 npm install mysql-mq
 ```
 
@@ -43,12 +43,12 @@ Tests need a MySQL Server running, to simplify tests a docker environment can be
 
 Test with docker:
 
-```bash
+```shell
 npm run dockertest
 ```
 
 Clear all docker containers:
 
-```bash
+```shell
 npm run dockerend
 ```
