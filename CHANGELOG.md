@@ -1,3 +1,16 @@
+# [0.6.0](https://github.com/Mario-F/mysql-mq/compare/v0.5.1...v0.6.0) (2022-05-15)
+
+
+### Features
+
+* added node version 12 to tests ([831bc2f](https://github.com/Mario-F/mysql-mq/commit/831bc2f2c1d31788641e4ed82ae52d151af6939f))
+* update all depencies to latest version ([f525a51](https://github.com/Mario-F/mysql-mq/commit/f525a51d1936039c508de6c66268ee372256ff7c))
+
+
+### Performance Improvements
+
+* renamed github repo to mysql-mq ([35a555d](https://github.com/Mario-F/mysql-mq/commit/35a555d161097381ac4c078eae63e268b86b9a08))
+
 ## [0.5.1](https://github.com/Mario-F/mysql-mq/compare/v0.5.0...v0.5.1) (2022-05-15)
 
 
