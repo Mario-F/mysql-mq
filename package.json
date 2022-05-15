@@ -1,6 +1,6 @@
 {
   "name": "mysql-mq",
-  "version": "0.4.2",
+  "version": "0.5.1",
   "description": "A MySQL Messagequeueing service",
   "type": "commonjs",
   "main": "index.js",

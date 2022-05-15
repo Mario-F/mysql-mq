@@ -1,3 +1,10 @@
+## [0.5.1](https://github.com/Mario-F/mysql_mq/compare/v0.5.0...v0.5.1) (2022-05-15)
+
+
+### Bug Fixes
+
+* updated package.json should also be commited ([879e222](https://github.com/Mario-F/mysql_mq/commit/879e22240443541b8a63400fd8f93d5643ba5988))
+
 # [0.5.0](https://github.com/Mario-F/mysql_mq/compare/v0.4.2...v0.5.0) (2022-05-15)
 
 
