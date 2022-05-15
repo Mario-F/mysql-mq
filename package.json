@@ -20,7 +20,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mario-F/mysql_mq.git"
+    "url": "https://github.com/Mario-F/mysql-mq.git"
   },
   "dependencies": {
     "debug": "^3.1.0",

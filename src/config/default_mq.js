@@ -12,5 +12,5 @@ module.exports.config_mysql = {
     port:               process.env.MYSQL_PORT      || 3306,
     user:               process.env.MYSQL_USER      || 'root',
     password:           process.env.MYSQL_PASS      || null,
-    database:           process.env.MYSQL_DATABASE  || 'mysql_mq',
+    database:           process.env.MYSQL_DATABASE  || 'mysql-mq',
 }
