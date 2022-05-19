@@ -1,3 +1,15 @@
+### [0.6.1](https://github.com/Mario-F/mysql-mq/compare/v0.6.0...v0.6.1) (2022-05-19)
+
+
+### Miscellaneous
+
+* add pipeline tests for mysql8 ([86df2be](https://github.com/Mario-F/mysql-mq/commit/86df2be630b8a28aaaa75414e9aad038872b0c6d))
+* added conventional-changelog-conventionalcommits to semantic-release ([d06c698](https://github.com/Mario-F/mysql-mq/commit/d06c69817311329c95e68be7569807f0b372560a))
+* change indents to 2 ([a7f41ca](https://github.com/Mario-F/mysql-mq/commit/a7f41ca581becacef17a6bc5dd38314df910eb60))
+* changed  release strategy ([5323fbb](https://github.com/Mario-F/mysql-mq/commit/5323fbb9af958ee85645ee4de2690596c3d8552a))
+* update local tests for mysql8 ([322d7e9](https://github.com/Mario-F/mysql-mq/commit/322d7e98f6dbdde1926d933d3d185f2c114e0201))
+* update package lock ([7e2c6e5](https://github.com/Mario-F/mysql-mq/commit/7e2c6e56a3a9dd034dfdb2501e21ce85197886ec))
+
 # [0.6.0](https://github.com/Mario-F/mysql-mq/compare/v0.5.1...v0.6.0) (2022-05-15)
 
 
