@@ -1,3 +1,16 @@
+## [0.6.2](https://github.com/Mario-F/mysql-mq/compare/v0.6.1...v0.6.2) (2022-06-08)
+
+
+### Bug Fixes
+
+* release branch ([a28b1ca](https://github.com/Mario-F/mysql-mq/commit/a28b1ca63684c110307326c1b2804f2fc8d4309b))
+
+
+### Miscellaneous
+
+* change branch to master ([40b9814](https://github.com/Mario-F/mysql-mq/commit/40b9814e01e700644c818b8445e79c0983e8b43e))
+* changed bad commits to non conventional ([bcb240e](https://github.com/Mario-F/mysql-mq/commit/bcb240e0ad6eea0a06e0b76f12545b8c53792361))
+
 ### [0.6.1](https://github.com/Mario-F/mysql-mq/compare/v0.6.0...v0.6.1) (2022-05-19)
 
 
